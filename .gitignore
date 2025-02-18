@@ -13,3 +13,4 @@ __jac_gen__/
 *.dat
 *.dir
 *.log
+.DS_Store
